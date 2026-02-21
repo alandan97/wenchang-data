@@ -1,16 +1,16 @@
 {
   "id": "case_20260222_00432",
-  "name": "天坛文创",
-  "region": "北京市",
-  "city": "东城区",
-  "category": "景区文创",
-  "products": "祈福文创",
-  "feature": "祭天文化",
+  "name": "东家",
+  "region": "浙江省",
+  "city": "杭州市",
+  "category": "匠人平台",
+  "products": "手工艺品",
+  "feature": "匠人电商",
   "type": "real_brand",
   "verification": {
     "status": "VERIFIED",
     "method": "real_brand_pool",
-    "timestamp": "2026-02-22T02:21:54.501333"
+    "timestamp": "2026-02-22T04:01:09.319203"
   },
-  "created_at": "2026-02-22T02:21:54.501339"
+  "created_at": "2026-02-22T04:01:09.319212"
 }
