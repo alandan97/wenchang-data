@@ -1,0 +1,16 @@
+{
+  "id": "case_20260222_00446",
+  "name": "寻找独角兽",
+  "region": "广东省",
+  "city": "深圳市",
+  "category": "潮玩盲盒",
+  "products": "FARMER BOB",
+  "feature": "艺术家联名",
+  "type": "real_brand",
+  "verification": {
+    "status": "VERIFIED",
+    "method": "real_brand_pool",
+    "timestamp": "2026-02-22T02:22:24.705870"
+  },
+  "created_at": "2026-02-22T02:22:24.705876"
+}
