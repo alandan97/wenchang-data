@@ -1,16 +1,16 @@
 {
   "id": "case_20260222_00417",
-  "name": "慢物质",
+  "name": "完美日记",
   "region": "广东省",
-  "city": "深圳市",
-  "category": "民艺文创",
-  "products": "文房四宝",
-  "feature": "传统文房",
+  "city": "广州市",
+  "category": "美妆文创",
+  "products": "彩妆",
+  "feature": "国潮美妆",
   "type": "real_brand",
   "verification": {
     "status": "VERIFIED",
     "method": "real_brand_pool",
-    "timestamp": "2026-02-22T01:01:28.695804"
+    "timestamp": "2026-02-22T02:21:23.494796"
   },
-  "created_at": "2026-02-22T01:01:28.695813"
+  "created_at": "2026-02-22T02:21:23.494805"
 }
