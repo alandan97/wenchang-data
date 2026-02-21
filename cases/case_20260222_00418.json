@@ -1,16 +1,16 @@
 {
   "id": "case_20260222_00418",
-  "name": "东家",
+  "name": "花西子",
   "region": "浙江省",
   "city": "杭州市",
-  "category": "匠人平台",
-  "products": "手工艺品",
-  "feature": "匠人电商",
+  "category": "美妆文创",
+  "products": "彩妆、护肤",
+  "feature": "东方美学",
   "type": "real_brand",
   "verification": {
     "status": "VERIFIED",
     "method": "real_brand_pool",
-    "timestamp": "2026-02-22T01:01:31.298450"
+    "timestamp": "2026-02-22T02:21:25.370040"
   },
-  "created_at": "2026-02-22T01:01:31.298458"
+  "created_at": "2026-02-22T02:21:25.370048"
 }
