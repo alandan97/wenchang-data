@@ -1,0 +1,16 @@
+{
+  "id": "case_20260222_00434",
+  "name": "敦煌研究院",
+  "region": "甘肃省",
+  "city": "敦煌市",
+  "category": "博物馆文创",
+  "products": "丝巾、壁画复刻",
+  "feature": "丝路文化",
+  "type": "real_brand",
+  "verification": {
+    "status": "VERIFIED",
+    "method": "real_brand_pool",
+    "timestamp": "2026-02-22T01:02:13.739313"
+  },
+  "created_at": "2026-02-22T01:02:13.739321"
+}
