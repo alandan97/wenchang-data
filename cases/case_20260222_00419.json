@@ -1,0 +1,16 @@
+{
+  "id": "case_20260222_00419",
+  "name": "IP小站",
+  "region": "上海市",
+  "city": "徐汇区",
+  "category": "潮玩平台",
+  "products": "盲盒、手办",
+  "feature": "IP运营",
+  "type": "real_brand",
+  "verification": {
+    "status": "VERIFIED",
+    "method": "real_brand_pool",
+    "timestamp": "2026-02-22T01:01:34.330738"
+  },
+  "created_at": "2026-02-22T01:01:34.330745"
+}
