@@ -1,0 +1,16 @@
+{
+  "id": "case_20260222_00528",
+  "name": "喜茶",
+  "region": "广东省",
+  "city": "深圳市",
+  "category": "茶饮文创",
+  "products": "奶茶、联名周边",
+  "feature": "跨界联名",
+  "type": "real_brand",
+  "verification": {
+    "status": "VERIFIED",
+    "method": "real_brand_pool",
+    "timestamp": "2026-02-22T06:00:59.847264"
+  },
+  "created_at": "2026-02-22T06:00:59.847272"
+}
