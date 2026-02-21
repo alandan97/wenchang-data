@@ -1,16 +1,16 @@
 {
   "id": "case_20260222_00431",
-  "name": "野兽派",
-  "region": "上海市",
-  "city": "静安区",
-  "category": "花艺文创",
-  "products": "花艺、家居",
-  "feature": "艺术生活",
+  "name": "王的手创",
+  "region": "浙江省",
+  "city": "杭州市",
+  "category": "非遗文创",
+  "products": "刺绣、布艺",
+  "feature": "手工刺绣",
   "type": "real_brand",
   "verification": {
     "status": "VERIFIED",
     "method": "real_brand_pool",
-    "timestamp": "2026-02-22T01:02:04.840072"
+    "timestamp": "2026-02-22T02:21:52.633238"
   },
-  "created_at": "2026-02-22T01:02:04.840080"
+  "created_at": "2026-02-22T02:21:52.633245"
 }
