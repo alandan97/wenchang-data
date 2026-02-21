@@ -1,16 +1,16 @@
 {
   "id": "case_20260222_00417",
-  "name": "完美日记",
-  "region": "广东省",
-  "city": "广州市",
-  "category": "美妆文创",
-  "products": "彩妆",
-  "feature": "国潮美妆",
+  "name": "东家",
+  "region": "浙江省",
+  "city": "杭州市",
+  "category": "匠人平台",
+  "products": "手工艺品",
+  "feature": "匠人电商",
   "type": "real_brand",
   "verification": {
     "status": "VERIFIED",
     "method": "real_brand_pool",
-    "timestamp": "2026-02-22T02:21:23.494796"
+    "timestamp": "2026-02-22T04:00:37.283096"
   },
-  "created_at": "2026-02-22T02:21:23.494805"
+  "created_at": "2026-02-22T04:00:37.283103"
 }
