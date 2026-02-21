@@ -1,16 +1,16 @@
 {
   "id": "case_20260222_00443",
-  "name": "河南博物院",
-  "region": "河南省",
-  "city": "郑州市",
-  "category": "博物馆文创",
-  "products": "考古盲盒、玉器",
-  "feature": "考古体验",
+  "name": "完美日记",
+  "region": "广东省",
+  "city": "广州市",
+  "category": "美妆文创",
+  "products": "彩妆",
+  "feature": "国潮美妆",
   "type": "real_brand",
   "verification": {
     "status": "VERIFIED",
     "method": "real_brand_pool",
-    "timestamp": "2026-02-22T02:22:18.476312"
+    "timestamp": "2026-02-22T04:01:32.231164"
   },
-  "created_at": "2026-02-22T02:22:18.476320"
+  "created_at": "2026-02-22T04:01:32.231172"
 }
