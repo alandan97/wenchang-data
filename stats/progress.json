@@ -1,0 +1,13 @@
+{
+  "policies_added": 5,
+  "cases_added": 3,
+  "analysis_added": 3,
+  "timestamp": "2026-02-21T13:20:39.774988",
+  "total_cases": 3,
+  "total_policies": 5,
+  "progress": {
+    "cases": "3/1000 (0.3%)",
+    "policies": "5/1000 (0.5%)",
+    "overall": "0.4%"
+  }
+}
