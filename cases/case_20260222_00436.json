@@ -1,16 +1,16 @@
 {
   "id": "case_20260222_00436",
-  "name": "国家博物馆",
-  "region": "北京市",
-  "city": "东城区",
-  "category": "博物馆文创",
-  "products": "复刻文物、文具",
-  "feature": "文物复刻",
+  "name": "黄山文创",
+  "region": "安徽省",
+  "city": "黄山市",
+  "category": "景区文创",
+  "products": "茶叶、文房",
+  "feature": "徽文化",
   "type": "real_brand",
   "verification": {
     "status": "VERIFIED",
     "method": "real_brand_pool",
-    "timestamp": "2026-02-22T01:02:19.197307"
+    "timestamp": "2026-02-22T02:22:02.892794"
   },
-  "created_at": "2026-02-22T01:02:19.197314"
+  "created_at": "2026-02-22T02:22:02.892802"
 }
