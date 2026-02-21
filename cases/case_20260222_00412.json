@@ -1,16 +1,16 @@
 {
   "id": "case_20260222_00412",
-  "name": "19八3",
-  "region": "北京市",
-  "city": "朝阳区",
-  "category": "潮玩盲盒",
-  "products": "盲盒、手办",
-  "feature": "原创IP",
+  "name": "布达拉宫文创",
+  "region": "西藏自治区",
+  "city": "拉萨市",
+  "category": "景区文创",
+  "products": "佛珠、饰品",
+  "feature": "藏传佛教",
   "type": "real_brand",
   "verification": {
     "status": "VERIFIED",
     "method": "real_brand_pool",
-    "timestamp": "2026-02-22T01:01:17.254735"
+    "timestamp": "2026-02-22T02:21:11.167979"
   },
-  "created_at": "2026-02-22T01:01:17.254743"
+  "created_at": "2026-02-22T02:21:11.167987"
 }
