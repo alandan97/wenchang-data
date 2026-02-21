@@ -1,0 +1,16 @@
+{
+  "id": "case_20260222_00444",
+  "name": "兵马俑文创",
+  "region": "陕西省",
+  "city": "西安市",
+  "category": "景区文创",
+  "products": "俑像、文具",
+  "feature": "秦文化",
+  "type": "real_brand",
+  "verification": {
+    "status": "VERIFIED",
+    "method": "real_brand_pool",
+    "timestamp": "2026-02-22T02:22:20.380910"
+  },
+  "created_at": "2026-02-22T02:22:20.380918"
+}
