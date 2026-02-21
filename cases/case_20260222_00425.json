@@ -1,16 +1,16 @@
 {
   "id": "case_20260222_00425",
-  "name": "上海博物馆",
-  "region": "上海市",
-  "city": "黄浦区",
+  "name": "三星堆博物馆",
+  "region": "四川省",
+  "city": "德阳市",
   "category": "博物馆文创",
-  "products": "青铜器复刻、书画",
-  "feature": "海派文化",
+  "products": "盲盒、面具",
+  "feature": "神秘古蜀",
   "type": "real_brand",
   "verification": {
     "status": "VERIFIED",
     "method": "real_brand_pool",
-    "timestamp": "2026-02-22T01:01:47.692657"
+    "timestamp": "2026-02-22T02:21:39.652204"
   },
-  "created_at": "2026-02-22T01:01:47.692665"
+  "created_at": "2026-02-22T02:21:39.652211"
 }
