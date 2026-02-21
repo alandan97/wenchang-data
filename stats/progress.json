@@ -1,11 +1,11 @@
 {
-  "total_policies": 323,
-  "total_cases": 554,
+  "total_policies": 341,
+  "total_cases": 604,
   "target_policies": 1000,
   "target_cases": 1000,
   "provinces": 34,
-  "progress_percent": 43.9,
-  "timestamp": "2026-02-22T06:02:34.536782",
+  "progress_percent": 47.2,
+  "timestamp": "2026-02-22T07:04:02.299827",
   "status": "in_progress",
   "verification": {
     "strict_mode": true,
