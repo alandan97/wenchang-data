@@ -1,0 +1,16 @@
+{
+  "id": "case_20260222_00413",
+  "name": "52TOYS",
+  "region": "北京市",
+  "city": "朝阳区",
+  "category": "潮玩手办",
+  "products": "猛兽匣、盲盒",
+  "feature": "变形玩具",
+  "type": "real_brand",
+  "verification": {
+    "status": "VERIFIED",
+    "method": "real_brand_pool",
+    "timestamp": "2026-02-22T01:01:19.548205"
+  },
+  "created_at": "2026-02-22T01:01:19.548213"
+}
