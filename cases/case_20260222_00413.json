@@ -1,16 +1,16 @@
 {
   "id": "case_20260222_00413",
-  "name": "52TOYS",
-  "region": "北京市",
-  "city": "朝阳区",
-  "category": "潮玩手办",
-  "products": "猛兽匣、盲盒",
-  "feature": "变形玩具",
+  "name": "上海博物馆",
+  "region": "上海市",
+  "city": "黄浦区",
+  "category": "博物馆文创",
+  "products": "青铜器复刻、书画",
+  "feature": "海派文化",
   "type": "real_brand",
   "verification": {
     "status": "VERIFIED",
     "method": "real_brand_pool",
-    "timestamp": "2026-02-22T01:01:19.548205"
+    "timestamp": "2026-02-22T02:21:13.622712"
   },
-  "created_at": "2026-02-22T01:01:19.548213"
+  "created_at": "2026-02-22T02:21:13.622719"
 }
