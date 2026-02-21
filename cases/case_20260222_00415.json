@@ -1,16 +1,16 @@
 {
   "id": "case_20260222_00415",
-  "name": "寻找独角兽",
-  "region": "广东省",
-  "city": "深圳市",
-  "category": "潮玩盲盒",
-  "products": "FARMER BOB",
-  "feature": "艺术家联名",
+  "name": "观夏",
+  "region": "北京市",
+  "city": "朝阳区",
+  "category": "香氛文创",
+  "products": "香薰、香水",
+  "feature": "东方香氛",
   "type": "real_brand",
   "verification": {
     "status": "VERIFIED",
     "method": "real_brand_pool",
-    "timestamp": "2026-02-22T01:01:24.745305"
+    "timestamp": "2026-02-22T02:21:18.284761"
   },
-  "created_at": "2026-02-22T01:01:24.745313"
+  "created_at": "2026-02-22T02:21:18.284771"
 }
