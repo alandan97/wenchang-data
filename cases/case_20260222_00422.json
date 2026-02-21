@@ -1,16 +1,16 @@
 {
   "id": "case_20260222_00422",
-  "name": "气味图书馆",
+  "name": "观夏",
   "region": "北京市",
   "city": "朝阳区",
   "category": "香氛文创",
-  "products": "香水、香薰",
-  "feature": "场景香氛",
+  "products": "香薰、香水",
+  "feature": "东方香氛",
   "type": "real_brand",
   "verification": {
     "status": "VERIFIED",
     "method": "real_brand_pool",
-    "timestamp": "2026-02-22T02:21:33.220163"
+    "timestamp": "2026-02-22T04:00:47.404396"
   },
-  "created_at": "2026-02-22T02:21:33.220172"
+  "created_at": "2026-02-22T04:00:47.404404"
 }
