@@ -1,19 +1,10 @@
 {
-  "total_policies": 5,
-  "total_cases": 3,
+  "total_policies": 229,
+  "total_cases": 196,
   "target_policies": 1000,
   "target_cases": 1000,
   "provinces": 34,
-  "progress_percent": 20.8,
-  "timestamp": "2026-02-21T14:00:38.132639",
-  "status": "in_progress",
-  "policies_added": 5,
-  "cases_added": 3,
-  "analysis_added": 3,
-  "progress": {
-    "cases": "3/1000 (0.3%)",
-    "policies": "5/1000 (0.5%)",
-    "overall": "0.4%"
-  },
-  "last_update": "2026-02-21T14:01:13.678446"
+  "progress_percent": 21.3,
+  "timestamp": "2026-02-21T14:01:41.273107",
+  "status": "in_progress"
 }
