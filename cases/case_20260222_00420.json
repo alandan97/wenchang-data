@@ -1,16 +1,16 @@
 {
   "id": "case_20260222_00420",
-  "name": "X11",
-  "region": "上海市",
-  "city": "黄浦区",
-  "category": "潮玩集合",
-  "products": "盲盒、手办",
-  "feature": "沉浸式体验",
+  "name": "了不起的匠人",
+  "region": "北京市",
+  "city": "朝阳区",
+  "category": "匠人平台",
+  "products": "纪录片、产品",
+  "feature": "匠人IP",
   "type": "real_brand",
   "verification": {
     "status": "VERIFIED",
     "method": "real_brand_pool",
-    "timestamp": "2026-02-22T02:21:29.101536"
+    "timestamp": "2026-02-22T04:00:43.295777"
   },
-  "created_at": "2026-02-22T02:21:29.101544"
+  "created_at": "2026-02-22T04:00:43.295784"
 }
