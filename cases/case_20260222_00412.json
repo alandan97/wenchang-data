@@ -1,16 +1,16 @@
 {
   "id": "case_20260222_00412",
-  "name": "布达拉宫文创",
-  "region": "西藏自治区",
-  "city": "拉萨市",
-  "category": "景区文创",
-  "products": "佛珠、饰品",
-  "feature": "藏传佛教",
+  "name": "南京博物院",
+  "region": "江苏省",
+  "city": "南京市",
+  "category": "博物馆文创",
+  "products": "文物周边、文具",
+  "feature": "六朝文化",
   "type": "real_brand",
   "verification": {
     "status": "VERIFIED",
     "method": "real_brand_pool",
-    "timestamp": "2026-02-22T02:21:11.167979"
+    "timestamp": "2026-02-22T04:00:27.331648"
   },
-  "created_at": "2026-02-22T02:21:11.167987"
+  "created_at": "2026-02-22T04:00:27.331656"
 }
