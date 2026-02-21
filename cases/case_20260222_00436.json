@@ -1,16 +1,16 @@
 {
   "id": "case_20260222_00436",
-  "name": "黄山文创",
-  "region": "安徽省",
-  "city": "黄山市",
-  "category": "景区文创",
-  "products": "茶叶、文房",
-  "feature": "徽文化",
+  "name": "茶百道",
+  "region": "四川省",
+  "city": "成都市",
+  "category": "茶饮文创",
+  "products": "奶茶",
+  "feature": "熊猫IP",
   "type": "real_brand",
   "verification": {
     "status": "VERIFIED",
     "method": "real_brand_pool",
-    "timestamp": "2026-02-22T02:22:02.892794"
+    "timestamp": "2026-02-22T04:01:17.477485"
   },
-  "created_at": "2026-02-22T02:22:02.892802"
+  "created_at": "2026-02-22T04:01:17.477493"
 }
