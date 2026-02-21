@@ -1,16 +1,16 @@
 {
   "id": "case_20260222_00448",
-  "name": "奈雪的茶",
-  "region": "广东省",
-  "city": "深圳市",
-  "category": "茶饮文创",
-  "products": "奶茶、烘焙",
-  "feature": "茶+软欧包",
+  "name": "气味图书馆",
+  "region": "北京市",
+  "city": "朝阳区",
+  "category": "香氛文创",
+  "products": "香水、香薰",
+  "feature": "场景香氛",
   "type": "real_brand",
   "verification": {
     "status": "VERIFIED",
     "method": "real_brand_pool",
-    "timestamp": "2026-02-22T02:22:29.981707"
+    "timestamp": "2026-02-22T04:01:43.072245"
   },
-  "created_at": "2026-02-22T02:22:29.981715"
+  "created_at": "2026-02-22T04:01:43.072253"
 }
