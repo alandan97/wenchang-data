@@ -1,10 +1,15 @@
 {
-  "total_policies": 269,
-  "total_cases": 404,
+  "total_policies": 287,
+  "total_cases": 454,
   "target_policies": 1000,
   "target_cases": 1000,
   "provinces": 34,
-  "progress_percent": 33.6,
-  "timestamp": "2026-02-21T20:04:59.022996",
-  "status": "in_progress"
+  "progress_percent": 37.0,
+  "timestamp": "2026-02-22T04:02:36.647681",
+  "status": "in_progress",
+  "verification": {
+    "strict_mode": true,
+    "real_brands_only": true,
+    "verification_failed": 0
+  }
 }
