@@ -1,16 +1,16 @@
 {
   "id": "case_20260222_00409",
-  "name": "泡泡玛特",
-  "region": "北京市",
-  "city": "朝阳区",
-  "category": "潮玩盲盒",
-  "products": "Molly、Dimoo等",
-  "feature": "潮流IP",
+  "name": "布达拉宫文创",
+  "region": "西藏自治区",
+  "city": "拉萨市",
+  "category": "景区文创",
+  "products": "佛珠、饰品",
+  "feature": "藏传佛教",
   "type": "real_brand",
   "verification": {
     "status": "VERIFIED",
     "method": "real_brand_pool",
-    "timestamp": "2026-02-22T01:01:08.002363"
+    "timestamp": "2026-02-22T02:21:04.651605"
   },
-  "created_at": "2026-02-22T01:01:08.002371"
+  "created_at": "2026-02-22T02:21:04.651612"
 }
