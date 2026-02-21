@@ -1,0 +1,49 @@
+{
+  "project": "文创指南",
+  "version": "1.0",
+  "priority": "最高",
+  "principles": [
+    "坚决与AI幻觉作斗争",
+    "所有数据必须经过真实性验证",
+    "拒绝虚构、拒绝推测、拒绝无法验证的信息"
+  ],
+  "verification": {
+    "enabled": true,
+    "strict_mode": true,
+    "default_for_all_operations": true,
+    "levels": {
+      "source": {"required": true, "description": "验证信息来源可靠性"},
+      "cross": {"required": true, "min_sources": 2, "description": "至少2个独立来源交叉确认"},
+      "validity": {"required": true, "description": "验证链接/图片可访问"}
+    }
+  },
+  "data_collection": {
+    "brands": {
+      "allow_template": false,
+      "require_real_brand": true,
+      "require_verification": true
+    },
+    "products": {
+      "require_images": true,
+      "image_validation": true,
+      "price_verification": true
+    },
+    "policies": {
+      "allow_template": false,
+      "require_doc_number": true,
+      "require_gov_source": true
+    }
+  },
+  "forbidden": [
+    "模板生成的品牌名称",
+    "模板生成的政策标题",
+    "无法验证的数据",
+    "包含'可能'、'大概'等模糊表述的数据",
+    "无来源标注的数据"
+  ],
+  "enforcement": {
+    "reject_unverified": true,
+    "log_all_verification": true,
+    "alert_on_failure": true
+  }
+}
