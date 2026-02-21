@@ -1,16 +1,16 @@
 {
   "id": "case_20260222_00447",
-  "name": "上海博物馆",
-  "region": "上海市",
-  "city": "黄浦区",
+  "name": "国家博物馆",
+  "region": "北京市",
+  "city": "东城区",
   "category": "博物馆文创",
-  "products": "青铜器复刻、书画",
-  "feature": "海派文化",
+  "products": "复刻文物、文具",
+  "feature": "文物复刻",
   "type": "real_brand",
   "verification": {
     "status": "VERIFIED",
     "method": "real_brand_pool",
-    "timestamp": "2026-02-22T02:22:27.671695"
+    "timestamp": "2026-02-22T04:01:41.281116"
   },
-  "created_at": "2026-02-22T02:22:27.671702"
+  "created_at": "2026-02-22T04:01:41.281123"
 }
