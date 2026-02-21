@@ -1,16 +1,16 @@
 {
   "id": "case_20260222_00410",
-  "name": "布达拉宫文创",
-  "region": "西藏自治区",
-  "city": "拉萨市",
-  "category": "景区文创",
-  "products": "佛珠、饰品",
-  "feature": "藏传佛教",
+  "name": "自然造物",
+  "region": "浙江省",
+  "city": "杭州市",
+  "category": "民艺文创",
+  "products": "年画、皮影",
+  "feature": "民间艺术",
   "type": "real_brand",
   "verification": {
     "status": "VERIFIED",
     "method": "real_brand_pool",
-    "timestamp": "2026-02-22T01:01:11.546967"
+    "timestamp": "2026-02-22T02:21:06.908394"
   },
-  "created_at": "2026-02-22T01:01:11.546975"
+  "created_at": "2026-02-22T02:21:06.908403"
 }
