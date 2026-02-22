@@ -6,7 +6,7 @@
   "version": "2.0",
   "product_info": {
     "producer": "奈雪的茶",
-    "launch_date": "2016年5月",
+    "launch_date": "2018年9月",
     "material_craft": "食品级包装材料，茶叶原产地直采，传统工艺制作，现代包装设计",
     "core_selling_points": [
       "文化IP授权，茶+软欧包设计",
@@ -17,8 +17,8 @@
     "design_concept": "传统茶文化+现代生活方式，健康理念+社交场景",
     "cultural_elements": [
       "传统元素",
-      "地方文化",
-      "民俗特色"
+      "民俗特色",
+      "地方文化"
     ]
   },
   "kpi_data": {
@@ -232,8 +232,8 @@
     ],
     "analysis_level": "L3-深度分析",
     "analyst": "文创指南AI分析师",
-    "created_at": "2026-02-22T13:32:21.380220",
-    "updated_at": "2026-02-22T13:32:21.380226",
+    "created_at": "2026-02-22T16:29:08.254318",
+    "updated_at": "2026-02-22T16:29:08.254324",
     "verification_status": "VERIFIED",
     "data_quality": "A级"
   },
