@@ -6,7 +6,7 @@
   "version": "2.0",
   "product_info": {
     "producer": "王的手创",
-    "launch_date": "2020年9月",
+    "launch_date": "2017年11月",
     "material_craft": "传统手工技艺，天然材料，非遗传承人监制，每件独一无二",
     "core_selling_points": [
       "文化IP授权，手工刺绣设计",
@@ -16,9 +16,9 @@
     ],
     "design_concept": "传统技艺活态传承，工匠精神+现代审美，文化保护+市场价值",
     "cultural_elements": [
-      "江南文化",
       "茶文化",
-      "南宋文化"
+      "南宋文化",
+      "丝绸文化"
     ]
   },
   "kpi_data": {
@@ -226,8 +226,8 @@
     ],
     "analysis_level": "L3-深度分析",
     "analyst": "文创指南AI分析师",
-    "created_at": "2026-02-22T13:32:27.346926",
-    "updated_at": "2026-02-22T13:32:27.346931",
+    "created_at": "2026-02-22T16:29:14.647018",
+    "updated_at": "2026-02-22T16:29:14.647024",
     "verification_status": "VERIFIED",
     "data_quality": "A级"
   },
