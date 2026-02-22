@@ -6,7 +6,7 @@
   "version": "2.0",
   "product_info": {
     "producer": "花西子",
-    "launch_date": "2019年2月",
+    "launch_date": "2020年7月",
     "material_craft": "天然成分+现代工艺，符合化妆品安全标准，包装设计融入文化元素",
     "core_selling_points": [
       "文化IP授权，东方美学设计",
@@ -16,9 +16,9 @@
     ],
     "design_concept": "传统文化现代化表达，东方美学国际化传播",
     "cultural_elements": [
-      "江南文化",
-      "南宋文化",
-      "丝绸文化"
+      "丝绸文化",
+      "茶文化",
+      "江南文化"
     ]
   },
   "kpi_data": {
@@ -226,8 +226,8 @@
     ],
     "analysis_level": "L3-深度分析",
     "analyst": "文创指南AI分析师",
-    "created_at": "2026-02-22T14:00:58.266269",
-    "updated_at": "2026-02-22T14:00:58.266275",
+    "created_at": "2026-02-22T15:00:34.910252",
+    "updated_at": "2026-02-22T15:00:34.910259",
     "verification_status": "VERIFIED",
     "data_quality": "A级"
   },
