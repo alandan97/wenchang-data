@@ -1,16 +1,16 @@
 {
   "total_cases": 914,
-  "total_policies": 467,
+  "total_policies": 517,
   "target_cases": 1000,
-  "target_policies": 1000,
-  "progress_percent": 69.0,
-  "timestamp": "2026-02-22T14:00:51.571602",
+  "target_policies": 10000,
+  "progress_percent": 13.0,
+  "timestamp": "2026-02-22T14:08:07.283173",
   "status": "in_progress",
-  "data_version": "2.0",
+  "data_version": "3.1",
   "analysis_level": "L3-深度分析",
   "verification": {
     "strict_mode": true,
-    "real_brands_only": true,
+    "real_data_only": true,
     "verification_failed": 0
   }
 }
