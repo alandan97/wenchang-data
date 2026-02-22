@@ -1,0 +1,16 @@
+{
+  "id": "case_20260222_00719",
+  "name": "泡泡玛特",
+  "region": "北京市",
+  "city": "朝阳区",
+  "category": "潮玩盲盒",
+  "products": "Molly、Dimoo等",
+  "feature": "潮流IP",
+  "type": "real_brand",
+  "verification": {
+    "status": "VERIFIED",
+    "method": "real_brand_pool",
+    "timestamp": "2026-02-22T10:01:32.300781"
+  },
+  "created_at": "2026-02-22T10:01:32.300789"
+}
