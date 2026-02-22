@@ -6,7 +6,7 @@
   "version": "2.0",
   "product_info": {
     "producer": "南京博物院",
-    "launch_date": "2015年7月",
+    "launch_date": "2016年3月",
     "material_craft": "采用环保树脂+金属合金材质，表面电镀工艺，手工上色，符合欧盟EN71玩具安全标准",
     "core_selling_points": [
       "文化IP授权，六朝文化设计",
@@ -16,9 +16,9 @@
     ],
     "design_concept": "以江苏省历史文化为核心，提取文物元素，现代设计语言重新演绎",
     "cultural_elements": [
-      "地方文化",
+      "民俗特色",
       "传统元素",
-      "民俗特色"
+      "地方文化"
     ]
   },
   "kpi_data": {
@@ -232,8 +232,8 @@
     ],
     "analysis_level": "L3-深度分析",
     "analyst": "文创指南AI分析师",
-    "created_at": "2026-02-22T13:49:37.589970",
-    "updated_at": "2026-02-22T13:49:37.589978",
+    "created_at": "2026-02-22T13:52:25.138128",
+    "updated_at": "2026-02-22T13:52:25.138136",
     "verification_status": "VERIFIED",
     "data_quality": "A级"
   },
