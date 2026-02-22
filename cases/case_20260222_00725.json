@@ -1,0 +1,16 @@
+{
+  "id": "case_20260222_00725",
+  "name": "南京博物院",
+  "region": "江苏省",
+  "city": "南京市",
+  "category": "博物馆文创",
+  "products": "文物周边、文具",
+  "feature": "六朝文化",
+  "type": "real_brand",
+  "verification": {
+    "status": "VERIFIED",
+    "method": "real_brand_pool",
+    "timestamp": "2026-02-22T10:01:45.234205"
+  },
+  "created_at": "2026-02-22T10:01:45.234214"
+}
