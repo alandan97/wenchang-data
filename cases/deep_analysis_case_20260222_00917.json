@@ -6,7 +6,7 @@
   "version": "2.0",
   "product_info": {
     "producer": "完美日记",
-    "launch_date": "2019年11月",
+    "launch_date": "2018年11月",
     "material_craft": "天然成分+现代工艺，符合化妆品安全标准，包装设计融入文化元素",
     "core_selling_points": [
       "文化IP授权，国潮美妆设计",
@@ -16,9 +16,9 @@
     ],
     "design_concept": "传统文化现代化表达，东方美学国际化传播",
     "cultural_elements": [
-      "地方文化",
       "民俗特色",
-      "传统元素"
+      "传统元素",
+      "地方文化"
     ]
   },
   "kpi_data": {
@@ -226,8 +226,8 @@
     ],
     "analysis_level": "L3-深度分析",
     "analyst": "文创指南AI分析师",
-    "created_at": "2026-02-22T13:52:54.042478",
-    "updated_at": "2026-02-22T13:52:54.042485",
+    "created_at": "2026-02-22T14:01:00.666817",
+    "updated_at": "2026-02-22T14:01:00.666824",
     "verification_status": "VERIFIED",
     "data_quality": "A级"
   },
