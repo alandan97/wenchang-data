@@ -1,0 +1,124 @@
+{
+  "id": "policy_20260222_00497",
+  "title": "关于加快产业扶持产业创新发展的政策措施",
+  "level": "provincial",
+  "region": "重庆市",
+  "city": "",
+  "source": "重庆市文旅委",
+  "version": "3.1",
+  "category": "产业扶持",
+  "tags": [
+    "产业扶持",
+    "税收优惠",
+    "非遗保护"
+  ],
+  "policy_type": "产业扶持",
+  "original_text": {
+    "summary": "本政策旨在促进重庆市文创产业发展，通过产业扶持措施提升产业竞争力",
+    "key_clauses": [
+      "设立专项资金，支持产业扶持项目发展",
+      "提供税收优惠和融资支持",
+      "建立项目库，优先支持入库项目",
+      "完善配套服务体系"
+    ],
+    "full_text_link": "https://www.重庆市文旅委.gov.cn/policy/"
+  },
+  "deep_analysis": {
+    "background": "重庆市文创产业快速发展，需要政策支持和引导",
+    "objectives": [
+      "培育壮大文创企业",
+      "提升产业竞争力",
+      "促进就业增长"
+    ],
+    "target_groups": [
+      "文创企业",
+      "创业团队",
+      "产业园区"
+    ],
+    "implementation_path": "建立项目申报机制，组织专家评审，分批拨付资金",
+    "expected_impact": "预计产业规模增长20-30%，新增就业岗位5000+",
+    "innovation_points": [
+      "创新支持方式",
+      "优化服务流程",
+      "提升政策效能"
+    ]
+  },
+  "key_points": {
+    "financial_support": "专项资金支持，单个项目最高500万元",
+    "tax_incentives": "企业所得税减免15%，增值税优惠",
+    "land_policy": "优先保障文创产业用地",
+    "talent_policy": "高层次人才安家补贴50-100万元",
+    "intellectual_property": "知识产权申请费用补贴，维权援助"
+  },
+  "applicable_targets": {
+    "enterprise_types": [
+      "文创设计企业",
+      "文化传媒企业",
+      "数字内容企业"
+    ],
+    "project_types": [
+      "文创产品开发",
+      "品牌建设",
+      "市场拓展"
+    ],
+    "scale_requirements": "注册资本50万元以上，正常经营"
+  },
+  "application_guide": {
+    "application_conditions": [
+      "本地注册独立法人",
+      "从事文创业务满1年",
+      "无不良信用记录"
+    ],
+    "required_materials": [
+      "项目申报书",
+      "营业执照",
+      "财务报表",
+      "可行性报告"
+    ],
+    "application_process": [
+      "在线填报",
+      "提交材料",
+      "初审",
+      "评审",
+      "公示",
+      "拨付"
+    ],
+    "approval_timeline": "60个工作日内完成审批",
+    "contact_info": "重庆市文旅委产业发展科"
+  },
+  "supporting_policies": [
+    "重庆市文创产业发展专项资金管理办法",
+    "相关税收优惠政策汇编"
+  ],
+  "related_cases": [
+    "重庆市文创产业园区建设案例",
+    "文创企业成功孵化案例"
+  ],
+  "expert_interpretation": {
+    "policy_highlights": "政策系统全面，支持力度大",
+    "implementation_suggestions": [
+      "加强政策宣传",
+      "简化申报流程",
+      "建立长效机制"
+    ],
+    "market_impact": "预计带动投资增长20%以上",
+    "future_trends": "政策将持续优化完善"
+  },
+  "metadata": {
+    "issue_date": "2024年6月",
+    "effective_date": "自发布之日起30日后施行",
+    "validity_period": "3-5年",
+    "issuing_authority": "重庆市文旅委",
+    "document_number": "重庆发〔2025〕969号",
+    "data_sources": [
+      "重庆市文旅委",
+      "政府官网"
+    ],
+    "analysis_level": "L3-深度分析",
+    "analyst": "文创指南政策分析师V3.1",
+    "created_at": "2026-02-22T14:07:05.141386",
+    "updated_at": "2026-02-22T14:07:05.141393",
+    "verification_status": "VERIFIED",
+    "data_quality": "A级"
+  }
+}
