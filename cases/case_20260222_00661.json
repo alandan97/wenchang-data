@@ -1,0 +1,16 @@
+{
+  "id": "case_20260222_00661",
+  "name": "稀捍行动",
+  "region": "上海市",
+  "city": "徐汇区",
+  "category": "非遗保护",
+  "products": "云锦、绒花",
+  "feature": "非遗传承",
+  "type": "real_brand",
+  "verification": {
+    "status": "VERIFIED",
+    "method": "real_brand_pool",
+    "timestamp": "2026-02-22T09:00:40.637487"
+  },
+  "created_at": "2026-02-22T09:00:40.637495"
+}
