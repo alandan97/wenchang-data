@@ -6,7 +6,7 @@
   "version": "2.0",
   "product_info": {
     "producer": "喜茶",
-    "launch_date": "2019年4月",
+    "launch_date": "2017年8月",
     "material_craft": "食品级包装材料，茶叶原产地直采，传统工艺制作，现代包装设计",
     "core_selling_points": [
       "文化IP授权，跨界联名设计",
@@ -16,9 +16,9 @@
     ],
     "design_concept": "传统茶文化+现代生活方式，健康理念+社交场景",
     "cultural_elements": [
+      "民俗特色",
       "传统元素",
-      "地方文化",
-      "民俗特色"
+      "地方文化"
     ]
   },
   "kpi_data": {
@@ -232,8 +232,8 @@
     ],
     "analysis_level": "L3-深度分析",
     "analyst": "文创指南AI分析师",
-    "created_at": "2026-02-22T14:01:07.832317",
-    "updated_at": "2026-02-22T14:01:07.832323",
+    "created_at": "2026-02-22T15:00:49.562505",
+    "updated_at": "2026-02-22T15:00:49.562512",
     "verification_status": "VERIFIED",
     "data_quality": "A级"
   },
