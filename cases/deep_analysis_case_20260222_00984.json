@@ -6,7 +6,7 @@
   "version": "2.0",
   "product_info": {
     "producer": "自然造物",
-    "launch_date": "2018年3月",
+    "launch_date": "2018年11月",
     "material_craft": "优质材料，精工制作",
     "core_selling_points": [
       "文化IP授权，民间艺术设计",
@@ -16,9 +16,9 @@
     ],
     "design_concept": "传统文化现代化表达，东方美学国际化传播",
     "cultural_elements": [
-      "茶文化",
+      "南宋文化",
       "江南文化",
-      "丝绸文化"
+      "茶文化"
     ]
   },
   "kpi_data": {
@@ -224,8 +224,8 @@
     ],
     "analysis_level": "L3-深度分析",
     "analyst": "文创指南AI分析师",
-    "created_at": "2026-02-22T20:03:00.830290",
-    "updated_at": "2026-02-22T20:03:00.830296",
+    "created_at": "2026-02-22T21:00:08.817315",
+    "updated_at": "2026-02-22T21:00:08.817321",
     "verification_status": "VERIFIED",
     "data_quality": "A级"
   },
