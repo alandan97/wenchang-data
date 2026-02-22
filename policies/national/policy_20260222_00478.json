@@ -1,18 +1,18 @@
 {
   "id": "policy_20260222_00478",
-  "title": "产业扶持产业发展专项资金管理办法",
+  "title": "关于加快产业扶持产业创新发展的奖励办法",
   "level": "national",
   "region": "全国",
   "city": "",
-  "source": "财政部",
+  "source": "发改委",
   "version": "3.0",
   "category": "产业扶持",
   "tags": [
     "产业扶持",
-    "税收优惠",
-    "奖励机制"
+    "融资支持",
+    "项目补贴"
   ],
-  "policy_type": "产业扶持",
+  "policy_type": "战略布局",
   "original_text": {
     "summary": "本政策旨在通过资金扶持、税收优惠等措施，促进文创产业发展，提升产业竞争力，培育一批具有核心竞争力的文创企业。",
     "key_clauses": [
@@ -22,7 +22,7 @@
       "建立项目库，优先支持入库项目，实行滚动管理",
       "对入驻文创园区的企业给予租金减免和装修补贴"
     ],
-    "full_text_link": "https://www.财政部.gov.cn/policy/policy_20260222_00478"
+    "full_text_link": "https://www.发改委.gov.cn/policy/policy_20260222_00478"
   },
   "deep_analysis": {
     "background": "全国文创产业快速发展，但企业融资难、成本高问题突出，亟需政策扶持助力企业成长",
@@ -95,7 +95,7 @@
       "资金拨付"
     ],
     "approval_timeline": "自受理之日起60个工作日内完成审批，特殊情况可延长30日",
-    "contact_info": "财政部财政部，联系电话：见官网公告，邮箱：policy@财政部.gov.cn"
+    "contact_info": "发改委发改委，联系电话：见官网公告，邮箱：policy@发改委.gov.cn"
   },
   "supporting_policies": [
     "全国文创产业发展专项资金管理办法",
@@ -125,17 +125,17 @@
     "issue_date": "2023-2025年9月",
     "effective_date": "自发布之日起30日后施行",
     "validity_period": "3年",
-    "issuing_authority": "财政部",
-    "document_number": "国财政发〔2026〕969号",
+    "issuing_authority": "发改委",
+    "document_number": "国发改发〔2026〕841号",
     "data_sources": [
-      "财政部",
+      "发改委",
       "政府官网",
       "政策解读文件"
     ],
     "analysis_level": "L3-深度分析",
     "analyst": "文创指南政策分析师V3.0",
-    "created_at": "2026-02-22T14:03:40.020813",
-    "updated_at": "2026-02-22T14:03:40.020819",
+    "created_at": "2026-02-22T14:04:26.434712",
+    "updated_at": "2026-02-22T14:04:26.434718",
     "verification_status": "VERIFIED",
     "data_quality": "A级"
   }
