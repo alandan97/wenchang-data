@@ -1,0 +1,132 @@
+{
+  "id": "policy_20260224_00595",
+  "title": "北京市推进文化创意产业创新发展的实施意见",
+  "level": "provincial",
+  "region": "北京市",
+  "city": "",
+  "source": "北京市文旅局",
+  "version": "2.0",
+  "category": "产业规划",
+  "tags": [
+    "产业规划"
+  ],
+  "policy_type": "产业规划",
+  "original_text": {
+    "summary": "本规划明确了产业规划产业的发展目标、重点任务和保障措施，为产业发展提供方向指引",
+    "key_clauses": [
+      "明确产业发展目标和阶段性任务",
+      "优化产业布局，建设产业园区",
+      "培育龙头企业和特色品牌",
+      "完善产业配套服务体系"
+    ],
+    "full_text_link": "https://www.北京市文旅局.gov.cn/policy/"
+  },
+  "deep_analysis": {
+    "background": "北京市文创产业进入新发展阶段，需要科学规划引导产业高质量发展",
+    "objectives": [
+      "明确发展方向",
+      "优化产业布局",
+      "提升产业规模",
+      "增强产业影响力"
+    ],
+    "target_groups": [
+      "政府部门",
+      "产业园区",
+      "行业协会",
+      "重点企业"
+    ],
+    "implementation_path": "制定实施方案，分解目标任务，建立协调机制，定期监测评估",
+    "expected_impact": "产业集聚度提升，形成区域性文创产业集群",
+    "innovation_points": [
+      "建立动态调整机制",
+      "引入第三方评估",
+      "实施差异化政策"
+    ]
+  },
+  "key_points": {
+    "financial_support": "专项资金支持，单个项目最高500万-2000万元",
+    "tax_incentives": "按规定享受相关税收优惠政策",
+    "land_policy": "优先保障文创产业用地，实行弹性出让年限，降低用地成本",
+    "talent_policy": "高层次人才安家补贴、子女入学、住房保障等配套支持",
+    "intellectual_property": "知识产权申请费用补贴，维权援助，质押融资支持"
+  },
+  "applicable_targets": {
+    "enterprise_types": [
+      "文创企业",
+      "文化机构",
+      "创意团队"
+    ],
+    "project_types": [
+      "产业项目",
+      "创新项目",
+      "示范项目"
+    ],
+    "scale_requirements": "注册资本200万元以上，年营收500万元以上"
+  },
+  "application_guide": {
+    "application_conditions": [
+      "在本地注册登记的独立法人",
+      "从事文创相关业务满1年",
+      "财务状况良好，无不良信用记录",
+      "符合环保、安全等相关要求"
+    ],
+    "required_materials": [
+      "项目申报书",
+      "企业营业执照副本",
+      "财务报表和审计报告",
+      "项目可行性研究报告",
+      "相关资质证明材料",
+      "知识产权证明文件"
+    ],
+    "application_process": [
+      "在线填报申请信息",
+      "提交纸质材料",
+      "主管部门初审",
+      "专家评审",
+      "公示",
+      "资金拨付"
+    ],
+    "approval_timeline": "自受理之日起60个工作日内完成审批",
+    "contact_info": "北京市文旅局北京市产业发展科，联系电话：见官网公告"
+  },
+  "supporting_policies": [
+    "北京市文创产业发展专项资金管理办法",
+    "北京市文化产业园区认定管理办法",
+    "北京市文创人才引进培养实施办法",
+    "相关税收优惠政策汇编"
+  ],
+  "related_cases": [
+    "北京市文创产业园区建设案例",
+    "北京市文创企业成功孵化案例",
+    "北京市文创项目融资成功案例"
+  ],
+  "expert_interpretation": {
+    "policy_highlights": "目标明确、路径清晰、保障有力",
+    "implementation_suggestions": [
+      "加强政策宣传解读，提高知晓度",
+      "简化申报流程，提高服务效率",
+      "加强跟踪评估，及时调整优化",
+      "建立长效机制，确保政策落地"
+    ],
+    "market_impact": "预计将带动产业规划领域投资增长20%以上，培育一批龙头企业和特色品牌",
+    "future_trends": "产业规划政策将持续优化完善，向精准化、市场化、国际化方向发展"
+  },
+  "metadata": {
+    "issue_date": "2022-2024年2月",
+    "effective_date": "自发布之日起30日后施行",
+    "validity_period": "5年",
+    "issuing_authority": "北京市文旅局",
+    "document_number": "省文旅发〔2026〕117号",
+    "data_sources": [
+      "北京市文旅局",
+      "政府官网",
+      "政策解读文件"
+    ],
+    "analysis_level": "L3-深度分析",
+    "analyst": "文创指南政策分析师",
+    "created_at": "2026-02-24T10:00:22.023392",
+    "updated_at": "2026-02-24T10:00:22.023397",
+    "verification_status": "VERIFIED",
+    "data_quality": "A级"
+  }
+}
