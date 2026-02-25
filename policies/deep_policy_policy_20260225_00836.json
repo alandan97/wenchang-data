@@ -1,0 +1,130 @@
+{
+  "id": "policy_20260225_00836",
+  "title": "杭州市数字文化产业发展扶持政策",
+  "level": "city",
+  "region": "浙江省",
+  "city": "杭州市",
+  "source": "杭州市文旅局",
+  "version": "2.0",
+  "category": "数字化",
+  "tags": [
+    "数字化",
+    "产业扶持"
+  ],
+  "policy_type": "数字文创",
+  "original_text": {
+    "summary": "本政策促进数字化产业健康发展",
+    "key_clauses": [
+      "支持产业发展",
+      "规范市场秩序",
+      "加强人才培养"
+    ],
+    "full_text_link": "https://www.杭州市文旅局.gov.cn/policy/"
+  },
+  "deep_analysis": {
+    "background": "浙江省文创产业发展需要政策支持",
+    "objectives": [
+      "促进产业发展",
+      "提升竞争力",
+      "增加就业"
+    ],
+    "target_groups": [
+      "文创企业",
+      "从业人员",
+      "消费者"
+    ],
+    "implementation_path": "制定方案、组织实施、监督评估",
+    "expected_impact": "促进产业健康发展",
+    "innovation_points": [
+      "创新支持方式",
+      "优化服务流程",
+      "提升政策效能"
+    ]
+  },
+  "key_points": {
+    "financial_support": "专项资金支持，单个项目最高100万-500万元",
+    "tax_incentives": "按规定享受相关税收优惠政策",
+    "land_policy": "优先保障文创产业用地，实行弹性出让年限，降低用地成本",
+    "talent_policy": "高层次人才安家补贴、子女入学、住房保障等配套支持",
+    "intellectual_property": "知识产权申请费用补贴，维权援助，质押融资支持"
+  },
+  "applicable_targets": {
+    "enterprise_types": [
+      "文创企业",
+      "文化机构",
+      "创意团队"
+    ],
+    "project_types": [
+      "产业项目",
+      "创新项目",
+      "示范项目"
+    ],
+    "scale_requirements": "注册资本50万元以上，年营收100万元以上"
+  },
+  "application_guide": {
+    "application_conditions": [
+      "在本地注册登记的独立法人",
+      "从事文创相关业务满1年",
+      "财务状况良好，无不良信用记录",
+      "符合环保、安全等相关要求"
+    ],
+    "required_materials": [
+      "项目申报书",
+      "企业营业执照副本",
+      "财务报表和审计报告",
+      "项目可行性研究报告",
+      "相关资质证明材料",
+      "知识产权证明文件"
+    ],
+    "application_process": [
+      "在线填报申请信息",
+      "提交纸质材料",
+      "主管部门初审",
+      "专家评审",
+      "公示",
+      "资金拨付"
+    ],
+    "approval_timeline": "自受理之日起60个工作日内完成审批",
+    "contact_info": "杭州市文旅局杭州市产业发展科，联系电话：见官网公告"
+  },
+  "supporting_policies": [
+    "浙江省文创产业发展专项资金管理办法",
+    "浙江省文化产业园区认定管理办法",
+    "浙江省文创人才引进培养实施办法",
+    "相关税收优惠政策汇编"
+  ],
+  "related_cases": [
+    "浙江省文创产业园区建设案例",
+    "浙江省文创企业成功孵化案例",
+    "浙江省文创项目融资成功案例"
+  ],
+  "expert_interpretation": {
+    "policy_highlights": "政策系统全面，支持力度大",
+    "implementation_suggestions": [
+      "加强政策宣传解读，提高知晓度",
+      "简化申报流程，提高服务效率",
+      "加强跟踪评估，及时调整优化",
+      "建立长效机制，确保政策落地"
+    ],
+    "market_impact": "预计将带动数字化领域投资增长20%以上，培育一批龙头企业和特色品牌",
+    "future_trends": "数字化政策将持续优化完善，向精准化、市场化、国际化方向发展"
+  },
+  "metadata": {
+    "issue_date": "2023-2024年2月",
+    "effective_date": "自发布之日起30日后施行",
+    "validity_period": "3-5年",
+    "issuing_authority": "杭州市文旅局",
+    "document_number": "市文旅发〔2026〕776号",
+    "data_sources": [
+      "杭州市文旅局",
+      "政府官网",
+      "政策解读文件"
+    ],
+    "analysis_level": "L3-深度分析",
+    "analyst": "文创指南政策分析师",
+    "created_at": "2026-02-25T10:00:34.386707",
+    "updated_at": "2026-02-25T10:00:34.386714",
+    "verification_status": "VERIFIED",
+    "data_quality": "A级"
+  }
+}
